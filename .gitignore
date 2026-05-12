@@ -1,0 +1,7 @@
+.log
+.env
+.txt
+__pycache__
+.idea
+.vscode
+uv.lock
